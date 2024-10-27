@@ -1,0 +1,82 @@
+[
+    {
+        "prompt": "What is the primary type of Pikachu?",
+        "response": {
+            "Answer": "Electric"
+        }
+    },
+    {
+        "prompt": "Which Pokémon evolves from Nidoran♀?",
+        "response": {
+            "Answer": "Nidorina"
+        }
+    },
+    {
+        "prompt": "True or False: Fearow is known for its loud cry and aggressive behavior.",
+        "response": {
+            "Answer": "True"
+        }
+    },
+    {
+        "prompt": "True or False: Jigglypuff is a pure Normal-type Pokémon.",
+        "response": {
+            "Answer": "False"
+        }
+    },
+    {
+        "prompt": "Fill in the blank: __________ is known for its magical powers and has nine tails.",
+        "response": {
+            "Answer": "Ninetales"
+        }
+    },
+    {
+        "prompt": "What are the two abilities of Arbok?",
+        "response": {
+            "Answer": "Intimidate, Shed Skin"
+        }
+    },
+    {
+        "prompt": "What is the evolution line of Sandshrew?",
+        "response": {
+            "Answer": "Sandshrew evolves into Sandslash."
+        }
+    },
+    {
+        "prompt": "Match the Pokémon to its Pokédex Number: Bulbasaur, Charmander, Squirtle.",
+        "response": {
+            "1": "Bulbasaur - 1",
+            "2": "Charmander - 4",
+            "3": "Squirtle - 7"
+        }
+    },
+    {
+        "prompt": "Describe the characteristics of Venomoth.",
+        "response": {
+            "Answer": "Venomoth is a Bug and Poison-type Pokémon known for its wings covered in toxic powder. It can cause paralysis with its powder."
+        }
+    },
+    {
+        "prompt": "If a trainer encounters a Psyduck, what might they notice about it?",
+        "response": {
+            "Answer": "Psyduck often suffers from headaches and can unleash powerful psychic attacks when the headaches become intense."
+        }
+    },
+    {
+        "prompt": "List the types of Ekans.",
+        "response": {
+            "Answer": "Poison"
+        }
+    },
+    {
+        "prompt": "What are the abilities of Clefairy?",
+        "response": {
+            "Answer": "Cute Charm, Magic Guard"
+        }
+    },
+    {
+        "prompt": "Compare the height and weight of Golbat and Zubat.",
+        "response": {
+            "Answer": "Golbat is 1.6 meters tall and weighs 55.0 kg; Zubat is 0.8 meters tall and weighs 7.5 kg."
+        }
+    }
+]

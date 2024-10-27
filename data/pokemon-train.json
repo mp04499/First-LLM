@@ -1,0 +1,961 @@
+[
+    {
+        "prompt": "Tell me about Bulbasaur.",
+        "response": {
+            "Name": "Bulbasaur",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Abilities": [
+                "Overgrow",
+                "Chlorophyll"
+            ],
+            "Height": "0.7 meters",
+            "Weight": "6.9 kg",
+            "Pokédex Number": 1,
+            "Flavor Text": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows into a large plant."
+        }
+    },
+    {
+        "prompt": "Tell me about Ivysaur.",
+        "response": {
+            "Name": "Ivysaur",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Abilities": [
+                "Overgrow",
+                "Chlorophyll"
+            ],
+            "Height": "1.0 meter",
+            "Weight": "13.0 kg",
+            "Pokédex Number": 2,
+            "Flavor Text": "Ivysaur uses the sharp scent of the flower to attract prey. The more the flower blooms, the stronger its aroma becomes."
+        }
+    },
+    {
+        "prompt": "Tell me about Venusaur.",
+        "response": {
+            "Name": "Venusaur",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Abilities": [
+                "Overgrow",
+                "Chlorophyll"
+            ],
+            "Height": "2.0 meters",
+            "Weight": "100.0 kg",
+            "Pokédex Number": 3,
+            "Flavor Text": "The flower on Venusaur's back is said to take on vivid colors if it gets plenty of sunlight."
+        }
+    },
+    {
+        "prompt": "Tell me about Charmander.",
+        "response": {
+            "Name": "Charmander",
+            "Type": [
+                "Fire"
+            ],
+            "Abilities": [
+                "Blaze",
+                "Solar Power"
+            ],
+            "Height": "0.6 meters",
+            "Weight": "8.5 kg",
+            "Pokédex Number": 4,
+            "Flavor Text": "Charmander's tail flame burns brightly. If it is weak, the flame will flicker. The flame is said to represent its life force."
+        }
+    },
+    {
+        "prompt": "Tell me about Charmeleon.",
+        "response": {
+            "Name": "Charmeleon",
+            "Type": [
+                "Fire"
+            ],
+            "Abilities": [
+                "Blaze",
+                "Solar Power"
+            ],
+            "Height": "1.1 meters",
+            "Weight": "19.0 kg",
+            "Pokédex Number": 5,
+            "Flavor Text": "Charmeleon is hot-tempered. If it becomes enraged, the flame at the tip of its tail flares up in a whitish-blue color."
+        }
+    },
+    {
+        "prompt": "Tell me about Charizard.",
+        "response": {
+            "Name": "Charizard",
+            "Type": [
+                "Fire",
+                "Flying"
+            ],
+            "Abilities": [
+                "Blaze",
+                "Solar Power"
+            ],
+            "Height": "1.7 meters",
+            "Weight": "90.5 kg",
+            "Pokédex Number": 6,
+            "Flavor Text": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything."
+        }
+    },
+    {
+        "prompt": "Tell me about Squirtle.",
+        "response": {
+            "Name": "Squirtle",
+            "Type": [
+                "Water"
+            ],
+            "Abilities": [
+                "Torrent",
+                "Rain Dish"
+            ],
+            "Height": "0.5 meters",
+            "Weight": "9.0 kg",
+            "Pokédex Number": 7,
+            "Flavor Text": "Squirtle is intelligent and learns new moves quickly. The shell is used as a flotation device, allowing it to swim easily."
+        }
+    },
+    {
+        "prompt": "Tell me about Wartortle.",
+        "response": {
+            "Name": "Wartortle",
+            "Type": [
+                "Water"
+            ],
+            "Abilities": [
+                "Torrent",
+                "Rain Dish"
+            ],
+            "Height": "1.0 meter",
+            "Weight": "22.5 kg",
+            "Pokédex Number": 8,
+            "Flavor Text": "Wartortle is known for its long furry tail. It is said to be a symbol of longevity."
+        }
+    },
+    {
+        "prompt": "Tell me about Blastoise.",
+        "response": {
+            "Name": "Blastoise",
+            "Type": [
+                "Water"
+            ],
+            "Abilities": [
+                "Torrent",
+                "Rain Dish"
+            ],
+            "Height": "1.6 meters",
+            "Weight": "85.5 kg",
+            "Pokédex Number": 9,
+            "Flavor Text": "Blastoise has water jets on its shell. It can shoot water with enough force to pierce steel."
+        }
+    },
+    {
+        "prompt": "Tell me about Caterpie.",
+        "response": {
+            "Name": "Caterpie",
+            "Type": [
+                "Bug"
+            ],
+            "Abilities": [
+                "Shield Dust",
+                "Run Away"
+            ],
+            "Height": "0.3 meters",
+            "Weight": "2.9 kg",
+            "Pokédex Number": 10,
+            "Flavor Text": "Caterpie is a favorite of trainers because it is easy to catch and raises quickly."
+        }
+    },
+    {
+        "prompt": "Tell me about Metapod.",
+        "response": {
+            "Name": "Metapod",
+            "Type": [
+                "Bug"
+            ],
+            "Abilities": [
+                "Shed Skin"
+            ],
+            "Height": "0.7 meters",
+            "Weight": "9.9 kg",
+            "Pokédex Number": 11,
+            "Flavor Text": "Metapod is in a state of dormancy. It is incapable of movement except to wiggle a little."
+        }
+    },
+    {
+        "prompt": "Tell me about Butterfree.",
+        "response": {
+            "Name": "Butterfree",
+            "Type": [
+                "Bug",
+                "Flying"
+            ],
+            "Abilities": [
+                "Compound Eyes",
+                "Tinted Lens"
+            ],
+            "Height": "1.1 meters",
+            "Weight": "32.0 kg",
+            "Pokédex Number": 12,
+            "Flavor Text": "Butterfree's wings have powder that can induce sleep. It is a favorite of Pokémon trainers."
+        }
+    },
+    {
+        "prompt": "Tell me about Weedle.",
+        "response": {
+            "Name": "Weedle",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Abilities": [
+                "Shield Dust",
+                "Run Away"
+            ],
+            "Height": "0.3 meters",
+            "Weight": "3.2 kg",
+            "Pokédex Number": 13,
+            "Flavor Text": "Weedle's stinger is sharp and poisonous. Be careful, or you might get a nasty surprise!"
+        }
+    },
+    {
+        "prompt": "Tell me about Kakuna.",
+        "response": {
+            "Name": "Kakuna",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Abilities": [
+                "Shed Skin"
+            ],
+            "Height": "0.6 meters",
+            "Weight": "10.0 kg",
+            "Pokédex Number": 14,
+            "Flavor Text": "Kakuna is in a state of metamorphosis. It is not able to move, but it is very tough."
+        }
+    },
+    {
+        "prompt": "Tell me about Beedrill.",
+        "response": {
+            "Name": "Beedrill",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Abilities": [
+                "Swarm",
+                "Sniper"
+            ],
+            "Height": "1.0 meter",
+            "Weight": "29.5 kg",
+            "Pokédex Number": 15,
+            "Flavor Text": "Beedrill is known for its speed and agility. It has three poisonous stingers that can be lethal."
+        }
+    },
+    {
+        "prompt": "Tell me about Pidgey.",
+        "response": {
+            "Name": "Pidgey",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Abilities": [
+                "Keen Eye",
+                "Tangled Feet"
+            ],
+            "Height": "0.3 meters",
+            "Weight": "1.8 kg",
+            "Pokédex Number": 16,
+            "Flavor Text": "Pidgey is a common sight in grasslands. It is very timid and often flies away when approached."
+        }
+    },
+    {
+        "prompt": "Tell me about Pidgeotto.",
+        "response": {
+            "Name": "Pidgeotto",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Abilities": [
+                "Keen Eye",
+                "Tangled Feet"
+            ],
+            "Height": "1.1 meters",
+            "Weight": "30.0 kg",
+            "Pokédex Number": 17,
+            "Flavor Text": "Pidgeotto is known for its keen eyesight. It can spot prey from great distances."
+        }
+    },
+    {
+        "prompt": "Tell me about Pidgeot.",
+        "response": {
+            "Name": "Pidgeot",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Abilities": [
+                "Keen Eye",
+                "Tangled Feet"
+            ],
+            "Height": "1.5 meters",
+            "Weight": "39.5 kg",
+            "Pokédex Number": 18,
+            "Flavor Text": "Pidgeot is known for its speed and elegance. It is capable of flying at Mach 2."
+        }
+    },
+    {
+        "prompt": "Tell me about Rattata.",
+        "response": {
+            "Name": "Rattata",
+            "Type": [
+                "Normal"
+            ],
+            "Abilities": [
+                "Run Away",
+                "Guts"
+            ],
+            "Height": "0.3 meters",
+            "Weight": "3.5 kg",
+            "Pokédex Number": 19,
+            "Flavor Text": "Rattata is known for its large front teeth, which it uses to gnaw on anything."
+        }
+    },
+    {
+        "prompt": "Tell me about Raticate.",
+        "response": {
+            "Name": "Raticate",
+            "Type": [
+                "Normal"
+            ],
+            "Abilities": [
+                "Run Away",
+                "Guts"
+            ],
+            "Height": "0.8 meters",
+            "Weight": "18.5 kg",
+            "Pokédex Number": 20,
+            "Flavor Text": "Raticate is very strong and can chew through anything. It is also quite aggressive."
+        }
+    },
+    {
+        "prompt": "Tell me about Spearow.",
+        "response": {
+            "Name": "Spearow",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Abilities": [
+                "Keen Eye",
+                "Sniper"
+            ],
+            "Height": "0.3 meters",
+            "Weight": "2.0 kg",
+            "Pokédex Number": 21,
+            "Flavor Text": "Spearow is known for its loud cry. It will aggressively attack anything that comes near."
+        }
+    },
+    {
+        "prompt": "Tell me about Fearow.",
+        "response": {
+            "Name": "Fearow",
+            "Type": [
+                "Normal",
+                "Flying"
+            ],
+            "Abilities": [
+                "Keen Eye",
+                "Sniper"
+            ],
+            "Height": "1.2 meters",
+            "Weight": "38.0 kg",
+            "Pokédex Number": 22,
+            "Flavor Text": "Fearow is known for its speed and ferocity. It can fly at high speeds and strike quickly."
+        }
+    },
+    {
+        "prompt": "Tell me about Ekans.",
+        "response": {
+            "Name": "Ekans",
+            "Type": [
+                "Poison"
+            ],
+            "Abilities": [
+                "Intimidate",
+                "Shed Skin"
+            ],
+            "Height": "2.0 meters",
+            "Weight": "6.9 kg",
+            "Pokédex Number": 23,
+            "Flavor Text": "Ekans curls itself up in the grass. Its body is capable of camouflage."
+        }
+    },
+    {
+        "prompt": "Tell me about Arbok.",
+        "response": {
+            "Name": "Arbok",
+            "Type": [
+                "Poison"
+            ],
+            "Abilities": [
+                "Intimidate",
+                "Shed Skin"
+            ],
+            "Height": "3.5 meters",
+            "Weight": "65.0 kg",
+            "Pokédex Number": 24,
+            "Flavor Text": "Arbok's intimidating cry can scare off most foes. It can also be quite venomous."
+        }
+    },
+    {
+        "prompt": "Tell me about Pikachu.",
+        "response": {
+            "Name": "Pikachu",
+            "Type": [
+                "Electric"
+            ],
+            "Abilities": [
+                "Static",
+                "Lightning Rod"
+            ],
+            "Height": "0.4 meters",
+            "Weight": "6.0 kg",
+            "Pokédex Number": 25,
+            "Flavor Text": "Pikachu can generate electric attacks from the electric pouches located in its cheeks."
+        }
+    },
+    {
+        "prompt": "Tell me about Raichu.",
+        "response": {
+            "Name": "Raichu",
+            "Type": [
+                "Electric"
+            ],
+            "Abilities": [
+                "Static",
+                "Lightning Rod"
+            ],
+            "Height": "0.8 meters",
+            "Weight": "30.0 kg",
+            "Pokédex Number": 26,
+            "Flavor Text": "Raichu's tail can conduct electricity. It is known for its speed and power."
+        }
+    },
+    {
+        "prompt": "Tell me about Sandshrew.",
+        "response": {
+            "Name": "Sandshrew",
+            "Type": [
+                "Ground"
+            ],
+            "Abilities": [
+                "Sand Veil",
+                "Sand Rush"
+            ],
+            "Height": "0.6 meters",
+            "Weight": "12.0 kg",
+            "Pokédex Number": 27,
+            "Flavor Text": "Sandshrew burrows in the ground to protect itself from the heat and predators."
+        }
+    },
+    {
+        "prompt": "Tell me about Sandslash.",
+        "response": {
+            "Name": "Sandslash",
+            "Type": [
+                "Ground"
+            ],
+            "Abilities": [
+                "Sand Veil",
+                "Sand Rush"
+            ],
+            "Height": "1.0 meter",
+            "Weight": "29.5 kg",
+            "Pokédex Number": 28,
+            "Flavor Text": "Sandslash has sharp claws that it uses to dig tunnels and climb trees."
+        }
+    },
+    {
+        "prompt": "Tell me about Nidoran♀.",
+        "response": {
+            "Name": "Nidoran♀",
+            "Type": [
+                "Poison"
+            ],
+            "Abilities": [
+                "Poison Point",
+                "Rivalry"
+            ],
+            "Height": "0.4 meters",
+            "Weight": "7.0 kg",
+            "Pokédex Number": 29,
+            "Flavor Text": "Nidoran♀ is known for its cute appearance, but its poisonous quills can be dangerous."
+        }
+    },
+    {
+        "prompt": "Tell me about Nidorina.",
+        "response": {
+            "Name": "Nidorina",
+            "Type": [
+                "Poison"
+            ],
+            "Abilities": [
+                "Poison Point",
+                "Rivalry"
+            ],
+            "Height": "0.8 meters",
+            "Weight": "20.0 kg",
+            "Pokédex Number": 30,
+            "Flavor Text": "Nidorina is known to be very protective of its young and will fiercely defend them."
+        }
+    },
+    {
+        "prompt": "Tell me about Nidoqueen.",
+        "response": {
+            "Name": "Nidoqueen",
+            "Type": [
+                "Poison",
+                "Ground"
+            ],
+            "Abilities": [
+                "Poison Point",
+                "Rivalry"
+            ],
+            "Height": "1.3 meters",
+            "Weight": "60.0 kg",
+            "Pokédex Number": 31,
+            "Flavor Text": "Nidoqueen's powerful body is capable of withstanding a great deal of damage."
+        }
+    },
+    {
+        "prompt": "Tell me about Nidoran♂.",
+        "response": {
+            "Name": "Nidoran♂",
+            "Type": [
+                "Poison"
+            ],
+            "Abilities": [
+                "Poison Point",
+                "Rivalry"
+            ],
+            "Height": "0.5 meters",
+            "Weight": "9.0 kg",
+            "Pokédex Number": 32,
+            "Flavor Text": "Nidoran♂ has small, sharp spines that can inject venom. It is known to be quite territorial."
+        }
+    },
+    {
+        "prompt": "Tell me about Nidorino.",
+        "response": {
+            "Name": "Nidorino",
+            "Type": [
+                "Poison"
+            ],
+            "Abilities": [
+                "Poison Point",
+                "Rivalry"
+            ],
+            "Height": "0.9 meters",
+            "Weight": "19.5 kg",
+            "Pokédex Number": 33,
+            "Flavor Text": "Nidorino uses its horn to battle and can be quite aggressive when provoked."
+        }
+    },
+    {
+        "prompt": "Tell me about Nidoking.",
+        "response": {
+            "Name": "Nidoking",
+            "Type": [
+                "Poison",
+                "Ground"
+            ],
+            "Abilities": [
+                "Poison Point",
+                "Rivalry"
+            ],
+            "Height": "1.4 meters",
+            "Weight": "62.0 kg",
+            "Pokédex Number": 34,
+            "Flavor Text": "Nidoking's powerful muscles can crush boulders. It is known for its incredible strength."
+        }
+    },
+    {
+        "prompt": "Tell me about Clefairy.",
+        "response": {
+            "Name": "Clefairy",
+            "Type": [
+                "Fairy"
+            ],
+            "Abilities": [
+                "Cute Charm",
+                "Magic Guard"
+            ],
+            "Height": "0.6 meters",
+            "Weight": "7.5 kg",
+            "Pokédex Number": 35,
+            "Flavor Text": "Clefairy is said to come from the moon. It is known for its dancing and singing."
+        }
+    },
+    {
+        "prompt": "Tell me about Clefable.",
+        "response": {
+            "Name": "Clefable",
+            "Type": [
+                "Fairy"
+            ],
+            "Abilities": [
+                "Cute Charm",
+                "Magic Guard"
+            ],
+            "Height": "1.3 meters",
+            "Weight": "40.0 kg",
+            "Pokédex Number": 36,
+            "Flavor Text": "Clefable is known for its gentle nature. It can hear the cries of Pokémon from far away."
+        }
+    },
+    {
+        "prompt": "Tell me about Vulpix.",
+        "response": {
+            "Name": "Vulpix",
+            "Type": [
+                "Fire"
+            ],
+            "Abilities": [
+                "Flash Fire",
+                "Drought"
+            ],
+            "Height": "0.6 meters",
+            "Weight": "9.0 kg",
+            "Pokédex Number": 37,
+            "Flavor Text": "Vulpix has six orange-red tails. The tails can be a sign of its strength and age."
+        }
+    },
+    {
+        "prompt": "Tell me about Ninetales.",
+        "response": {
+            "Name": "Ninetales",
+            "Type": [
+                "Fire"
+            ],
+            "Abilities": [
+                "Flash Fire",
+                "Drought"
+            ],
+            "Height": "1.1 meters",
+            "Weight": "19.9 kg",
+            "Pokédex Number": 38,
+            "Flavor Text": "Ninetales is said to have magical powers. Its nine tails are a symbol of its long life."
+        }
+    },
+    {
+        "prompt": "Tell me about Jigglypuff.",
+        "response": {
+            "Name": "Jigglypuff",
+            "Type": [
+                "Normal",
+                "Fairy"
+            ],
+            "Abilities": [
+                "Cute Charm",
+                "Competitive"
+            ],
+            "Height": "0.5 meters",
+            "Weight": "5.5 kg",
+            "Pokédex Number": 39,
+            "Flavor Text": "Jigglypuff uses its vocal cords to make soothing sounds. It can put others to sleep, which it finds amusing."
+        }
+    },
+    {
+        "prompt": "Tell me about Wigglytuff.",
+        "response": {
+            "Name": "Wigglytuff",
+            "Type": [
+                "Normal",
+                "Fairy"
+            ],
+            "Abilities": [
+                "Cute Charm",
+                "Competitive"
+            ],
+            "Height": "1.0 meter",
+            "Weight": "12.0 kg",
+            "Pokédex Number": 40,
+            "Flavor Text": "Wigglytuff's vocal abilities are impressive, and it can put even the strongest foes to sleep."
+        }
+    },
+    {
+        "prompt": "Tell me about Zubat.",
+        "response": {
+            "Name": "Zubat",
+            "Type": [
+                "Poison",
+                "Flying"
+            ],
+            "Abilities": [
+                "Inner Focus",
+                "Infiltrator"
+            ],
+            "Height": "0.8 meters",
+            "Weight": "7.5 kg",
+            "Pokédex Number": 41,
+            "Flavor Text": "Zubat is often found in caves. It uses echolocation to navigate and find its way."
+        }
+    },
+    {
+        "prompt": "Tell me about Golbat.",
+        "response": {
+            "Name": "Golbat",
+            "Type": [
+                "Poison",
+                "Flying"
+            ],
+            "Abilities": [
+                "Inner Focus",
+                "Infiltrator"
+            ],
+            "Height": "1.6 meters",
+            "Weight": "55.0 kg",
+            "Pokédex Number": 42,
+            "Flavor Text": "Golbat is known for its sharp fangs. It feeds on the blood of its prey."
+        }
+    },
+    {
+        "prompt": "Tell me about Oddish.",
+        "response": {
+            "Name": "Oddish",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Abilities": [
+                "Chlorophyll",
+                "Effect Spore"
+            ],
+            "Height": "0.5 meters",
+            "Weight": "5.4 kg",
+            "Pokédex Number": 43,
+            "Flavor Text": "Oddish is known for its beautiful flowers. It loves to soak up sunlight."
+        }
+    },
+    {
+        "prompt": "Tell me about Gloom.",
+        "response": {
+            "Name": "Gloom",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Abilities": [
+                "Chlorophyll",
+                "Effect Spore"
+            ],
+            "Height": "0.8 meters",
+            "Weight": "8.6 kg",
+            "Pokédex Number": 44,
+            "Flavor Text": "Gloom releases a foul fragrance. The stench can incapacitate anyone nearby."
+        }
+    },
+    {
+        "prompt": "Tell me about Vileplume.",
+        "response": {
+            "Name": "Vileplume",
+            "Type": [
+                "Grass",
+                "Poison"
+            ],
+            "Abilities": [
+                "Chlorophyll",
+                "Effect Spore"
+            ],
+            "Height": "1.2 meters",
+            "Weight": "18.6 kg",
+            "Pokédex Number": 45,
+            "Flavor Text": "Vileplume's flower is known for its size. It can cause drowsiness with its pollen."
+        }
+    },
+    {
+        "prompt": "Tell me about Paras.",
+        "response": {
+            "Name": "Paras",
+            "Type": [
+                "Bug",
+                "Grass"
+            ],
+            "Abilities": [
+                "Effect Spore",
+                "Dry Skin"
+            ],
+            "Height": "0.3 meters",
+            "Weight": "5.4 kg",
+            "Pokédex Number": 46,
+            "Flavor Text": "Paras is often found in damp forests. Its mushrooms can be very dangerous."
+        }
+    },
+    {
+        "prompt": "Tell me about Parasect.",
+        "response": {
+            "Name": "Parasect",
+            "Type": [
+                "Bug",
+                "Grass"
+            ],
+            "Abilities": [
+                "Effect Spore",
+                "Dry Skin"
+            ],
+            "Height": "1.0 meter",
+            "Weight": "11.5 kg",
+            "Pokédex Number": 47,
+            "Flavor Text": "Parasect's mushrooms have taken over its body. They can release spores that induce sleep."
+        }
+    },
+    {
+        "prompt": "Tell me about Venonat.",
+        "response": {
+            "Name": "Venonat",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Abilities": [
+                "Compound Eyes",
+                "Tinted Lens"
+            ],
+            "Height": "1.0 meter",
+            "Weight": "30.0 kg",
+            "Pokédex Number": 48,
+            "Flavor Text": "Venonat has large, sensitive eyes. It can see in the dark and track prey."
+        }
+    },
+    {
+        "prompt": "Tell me about Venomoth.",
+        "response": {
+            "Name": "Venomoth",
+            "Type": [
+                "Bug",
+                "Poison"
+            ],
+            "Abilities": [
+                "Compound Eyes",
+                "Tinted Lens"
+            ],
+            "Height": "1.5 meters",
+            "Weight": "12.5 kg",
+            "Pokédex Number": 49,
+            "Flavor Text": "Venomoth's wings are covered in toxic powder. It can cause paralysis with its powder."
+        }
+    },
+    {
+        "prompt": "Tell me about Diglett.",
+        "response": {
+            "Name": "Diglett",
+            "Type": [
+                "Ground"
+            ],
+            "Abilities": [
+                "Sand Veil",
+                "Sand Rush"
+            ],
+            "Height": "0.2 meters",
+            "Weight": "0.8 kg",
+            "Pokédex Number": 50,
+            "Flavor Text": "Diglett burrows underground. It is known for its speed and agility."
+        }
+    },
+    {
+        "prompt": "Tell me about Dugtrio.",
+        "response": {
+            "Name": "Dugtrio",
+            "Type": [
+                "Ground"
+            ],
+            "Abilities": [
+                "Sand Veil",
+                "Sand Rush"
+            ],
+            "Height": "0.8 meters",
+            "Weight": "33.3 kg",
+            "Pokédex Number": 51,
+            "Flavor Text": "Dugtrio is known for its incredible speed. It can burrow through the ground at great depths."
+        }
+    },
+    {
+        "prompt": "Tell me about Meowth.",
+        "response": {
+            "Name": "Meowth",
+            "Type": [
+                "Normal"
+            ],
+            "Abilities": [
+                "Pickup",
+                "Technician"
+            ],
+            "Height": "0.4 meters",
+            "Weight": "4.2 kg",
+            "Pokédex Number": 52,
+            "Flavor Text": "Meowth is known for its ability to walk on two legs. It is a clever Pokémon."
+        }
+    },
+    {
+        "prompt": "Tell me about Persian.",
+        "response": {
+            "Name": "Persian",
+            "Type": [
+                "Normal"
+            ],
+            "Abilities": [
+                "Limber",
+                "Technician"
+            ],
+            "Height": "1.0 meter",
+            "Weight": "32.0 kg",
+            "Pokédex Number": 53,
+            "Flavor Text": "Persian is known for its elegance and speed. It is a very proud Pokémon."
+        }
+    },
+    {
+        "prompt": "Tell me about Psyduck.",
+        "response": {
+            "Name": "Psyduck",
+            "Type": [
+                "Water"
+            ],
+            "Abilities": [
+                "Damp",
+                "Cloud Nine"
+            ],
+            "Height": "0.8 meters",
+            "Weight": "19.6 kg",
+            "Pokédex Number": 54,
+            "Flavor Text": "Psyduck suffers from frequent headaches. It can unleash powerful psychic attacks when the headaches become intense."
+        }
+    },
+    {
+        "prompt": "Tell me about Golduck.",
+        "response": {
+            "Name": "Golduck",
+            "Type": [
+                "Water"
+            ],
+            "Abilities": [
+                "Damp",
+                "Cloud Nine"
+            ],
+            "Height": "1.7 meters",
+            "Weight": "76.6 kg",
+            "Pokédex Number": 55,
+            "Flavor Text": "Golduck is known for its speed and swimming ability. It can also use psychic powers."
+        }
+    }
+]
